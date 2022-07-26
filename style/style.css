@@ -138,7 +138,7 @@ main a:hover {
 }
 
 main > img {
-    max-width: 100%;
+   width: 100%;
 }
 
 main img.pequena {
